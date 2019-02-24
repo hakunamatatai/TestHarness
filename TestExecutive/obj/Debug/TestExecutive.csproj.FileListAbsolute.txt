@@ -1,0 +1,98 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\TestExecutive.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\obj\Debug\TestExecutive.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\TestExecutive.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\TestExecutive.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\Client.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\Logger.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\Repository.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\TestHarness.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\Client.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\ITest.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\Logger.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\Repository.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\TestHarness.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\obj\Debug\TestExecutive.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\obj\Debug\TestExecutive.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\LoadAndTest.exe
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\Messages.exe
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\LoadAndTest.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\TestExecutive\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\TestExecutive.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\obj\Debug\TestExecutive.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\obj\Debug\TestExecutive.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\TestExecutive.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\TestExecutive.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\Client.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\LoadAndTest.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\Messages.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\Repository.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\TestHarness.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\LoadAndTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\Repository.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\obj\Debug\TestExecutive.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\Client.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\TestHarness.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestExecutive\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\TestExecutive.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\TestExecutive.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\TestExecutive.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\Client.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\LoadAndTest.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\Repository.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\TestHarness.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\Client.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\LoadAndTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\Repository.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\TestHarness.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\obj\Debug\TestExecutive.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\obj\Debug\TestExecutive.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\obj\Debug\TestExecutive.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\WpfApplication1.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestExecutive\bin\Debug\WpfApplication1.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\TestExecutive.exe.config
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\TestExecutive.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\TestExecutive.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\Client.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\LoadAndTest.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\Repository.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\TestHarness.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\Client.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\LoadAndTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\Repository.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\TestHarness.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\obj\Debug\TestExecutive.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\obj\Debug\TestExecutive.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestExecutive\obj\Debug\TestExecutive.pdb

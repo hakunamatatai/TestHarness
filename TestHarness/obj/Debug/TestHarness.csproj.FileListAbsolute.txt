@@ -1,0 +1,72 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestHarness\bin\Debug\TestHarness.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestHarness\bin\Debug\TestHarness.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestHarness\bin\Debug\TestHarness.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestHarness\obj\Debug\TestHarness.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestHarness\obj\Debug\TestHarness.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestHarness\bin\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestHarness\bin\Debug\ITest.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\TestHarness\bin\Debug\LoadAndTest.exe
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\TestHarness\bin\Debug\Messages.exe
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\TestHarness\bin\Debug\LoadAndTest.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\TestHarness\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\TestHarness.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\TestHarness.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\TestHarness.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\LoadAndTest.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\Messages.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\LoadAndTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\obj\Debug\TestHarness.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\obj\Debug\TestHarness.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\TestHarness\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\TestHarness.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\TestHarness.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\TestHarness.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\LoadAndTest.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\LoadAndTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\obj\Debug\TestHarness.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\TestHarness\obj\Debug\TestHarness.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\TestHarness.exe.config
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\obj\Debug\TestHarness.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\obj\Debug\TestHarness.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\TestHarness.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\TestHarness.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\LoadAndTest.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\LoadAndTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache

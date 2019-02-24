@@ -1,0 +1,22 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb

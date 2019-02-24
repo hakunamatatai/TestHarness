@@ -1,0 +1,32 @@
+
+Steps I am using to Construct this Solution
+===========================================
+
+Define Packages - In Project #2 these are all part of the same process
+----------------------------------------------------------------------
+- Create empty Visual Studio Solution
+- Create default console projects for:
+  - TestHarness
+  - Client
+  - ClientWindow
+  - Communication
+  - Repository 
+  - LoadAndExecute
+  - ITest
+  - TestDriver
+  - TestedCode
+  - Logger
+  - Messages
+  - MessageTest
+  - BlockingQueue - from Project2HelpF16
+
+Define communication between packages neccessary for testing.  For testing we need to:
+--------------------------------------------------------------------------------------
+- send test requests from Client Server to TestHarness Server
+- send test requests from TestHarness Server to child AppDomains
+- send file requests from TestHarness Server to Repository Server, sending path
+- Repository will write files into path supplied from child AppDomain
+- Child AppDomain will send results to TestHarness Server
+- TestHarness Server will send results to Client Server and Logs to Repository Server
+
+

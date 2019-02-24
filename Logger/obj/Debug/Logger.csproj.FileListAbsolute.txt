@@ -1,0 +1,42 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\bin\Debug\Logger.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\bin\Debug\Logger.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\bin\Debug\Logger.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\obj\Debug\Logger.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\obj\Debug\Logger.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Logger\bin\Debug\Logger.dll.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Logger\bin\Debug\Logger.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Logger\bin\Debug\Logger.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Logger\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Logger\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Logger\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Logger\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Logger\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Logger\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Logger\obj\Debug\Logger.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Logger\obj\Debug\Logger.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Logger\bin\Debug\Logger.dll.config
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Logger\bin\Debug\Logger.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Logger\bin\Debug\Logger.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Logger\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Logger\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Logger\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Logger\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Logger\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Logger\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Logger\obj\Debug\Logger.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Logger\obj\Debug\Logger.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Logger\bin\Debug\Logger.dll.config
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Logger\bin\Debug\Logger.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Logger\bin\Debug\Logger.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Logger\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Logger\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Logger\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Logger\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Logger\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Logger\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Logger\obj\Debug\Logger.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Logger\obj\Debug\Logger.pdb

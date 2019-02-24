@@ -1,0 +1,30 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Messages\bin\Debug\Messages.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Messages\bin\Debug\Messages.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Messages\bin\Debug\Messages.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Messages\obj\Debug\Messages.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Messages\obj\Debug\Messages.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Messages\bin\Debug\Messages.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Messages\bin\Debug\Messages.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Messages\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Messages\obj\Debug\Messages.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Messages\obj\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Messages\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Messages\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Messages\bin\Debug\Messages.dll.config
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Messages\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Messages\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Messages\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Messages\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Messages\obj\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Messages\obj\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Messages\bin\Debug\Messages.dll.config
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Messages\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Messages\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Messages\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Messages\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Messages\obj\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Messages\obj\Debug\Messages.pdb

@@ -1,0 +1,28 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\bin\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\bin\Debug\ITest.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\obj\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\obj\Debug\ITest.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\bin\Debug\Messages.exe
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\bin\Debug\Messages.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\ITest\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\ITest\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\ITest\bin\Debug\Messages.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\ITest\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\ITest\obj\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\ITest\obj\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\ITest\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\ITest\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\ITest\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\ITest\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\ITest\obj\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\ITest\obj\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\ITest\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\ITest\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\ITest\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\ITest\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\ITest\obj\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\ITest\obj\Debug\ITest.pdb

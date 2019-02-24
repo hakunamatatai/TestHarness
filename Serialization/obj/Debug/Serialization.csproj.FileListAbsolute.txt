@@ -1,0 +1,29 @@
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\bin\Debug\TestDeserialization.exe.config
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\bin\Debug\TestDeserialization.exe
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\bin\Debug\TestDeserialization.pdb
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\obj\Debug\TestDeserialization.exe
+C:\SU\cse681\code\Project4HelpF16\TestDeserialization\TestDeserialization\obj\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Serialization\bin\Debug\TestDeserialization.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Serialization\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Serialization\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Serialization\obj\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Serialization\obj\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Serialization\bin\Debug\TestDeserialization.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Serialization\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Serialization\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Serialization\obj\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Serialization\obj\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Serialization\bin\Debug\TestDeserialization.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Serialization\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Serialization\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Serialization\obj\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Serialization\obj\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Serialization\bin\Debug\TestDeserialization.exe.config
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Serialization\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Serialization\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Serialization\obj\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Serialization\obj\Debug\TestDeserialization.pdb

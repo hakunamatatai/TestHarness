@@ -1,0 +1,40 @@
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\MessageTest\bin\Debug\MessageTest.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\MessageTest\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\MessageTest\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\MessageTest\bin\Debug\Messages.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\MessageTest\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\MessageTest\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\MessageTest\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\MessageTest\obj\Debug\MessageTest.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\MessageTest\obj\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\MessageTest\obj\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\MessageTest\bin\Debug\MessageTest.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\MessageTest\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\MessageTest\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\MessageTest\bin\Debug\Messages.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\MessageTest\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\MessageTest\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\MessageTest\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\MessageTest\obj\Debug\MessageTest.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\MessageTest\obj\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\MessageTest\obj\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\MessageTest\bin\Debug\MessageTest.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\MessageTest\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\MessageTest\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\MessageTest\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\MessageTest\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\MessageTest\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\MessageTest\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\MessageTest\obj\Debug\MessageTest.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\MessageTest\obj\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\MessageTest\obj\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\MessageTest\bin\Debug\MessageTest.exe.config
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\MessageTest\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\MessageTest\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\MessageTest\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\MessageTest\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\MessageTest\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\MessageTest\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\MessageTest\obj\Debug\MessageTest.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\MessageTest\obj\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\MessageTest\obj\Debug\MessageTest.pdb

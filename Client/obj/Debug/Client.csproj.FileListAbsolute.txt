@@ -1,0 +1,64 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Client.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Client.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Client.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\obj\Debug\Client.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\obj\Debug\Client.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\ITest.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Messages.exe
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Client\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\Client.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\Client.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\Client.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\Messages.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\obj\Debug\Client.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\obj\Debug\Client.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Client\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\Client.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\Client.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\Client.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\obj\Debug\Client.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Client\obj\Debug\Client.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\Client.exe.config
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\Client.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\Client.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\MessageTest.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\MessageTest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\obj\Debug\Client.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Client\obj\Debug\Client.pdb

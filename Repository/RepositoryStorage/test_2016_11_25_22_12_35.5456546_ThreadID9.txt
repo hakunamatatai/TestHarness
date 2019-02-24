@@ -1,0 +1,14 @@
+test_2016_11_25_22_12_35.5456546_ThreadID9.txt
+-----------------------------
+test1
+passed
+demo test that always passes
+-----------------------------
+test2
+failed
+file not loaded
+-----------------------------
+test3
+failed
+demo test that always fails
+-----------------------------

@@ -1,0 +1,48 @@
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Communication\bin\Debug\Communication.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Communication\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Communication\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Communication\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Communication\bin\Debug\Messages.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Communication\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Communication\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Communication\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Communication\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Communication\obj\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\CommChannelDemo\Communication\obj\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Communication\bin\Debug\Communication.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Communication\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Communication\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Communication\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Communication\bin\Debug\Messages.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Communication\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Communication\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Communication\obj\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Communication\obj\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Communication\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Communication\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Communication\bin\Debug\Communication.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Communication\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Communication\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Communication\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Communication\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Communication\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Communication\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Communication\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Communication\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Communication\obj\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Communication\obj\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Communication\bin\Debug\Communication.exe.config
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Communication\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Communication\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Communication\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Communication\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Communication\bin\Debug\TestDeserialization.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Communication\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Communication\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Communication\bin\Debug\TestDeserialization.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Communication\obj\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Communication\obj\Debug\Communication.pdb

@@ -1,0 +1,48 @@
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Repository\bin\Debug\Repository.exe.config
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Repository\bin\Debug\Repository.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Repository\bin\Debug\Repository.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Repository\obj\Debug\Repository.exe
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Repository\obj\Debug\Repository.pdb
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Repository\bin\Debug\ITest.dll
+C:\su\cse681\code\Project2HelpF16\InstrSol-Project2\Repository\bin\Debug\ITest.pdb
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Repository\bin\Debug\Messages.exe
+C:\SU\cse681\code\Project2HelpF16\InstrSol-Project2\Repository\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Repository\bin\Debug\Repository.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Repository\bin\Debug\Repository.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Repository\bin\Debug\Repository.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Repository\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Repository\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Repository\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Repository\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Repository\obj\Debug\Repository.exe
+D:\各种文件\课程内容\681\project\PRO4\Demo\InstrSol-Project2-WithThreads-current version\Repository\obj\Debug\Repository.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\bin\Debug\Repository.exe.config
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\bin\Debug\Repository.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\bin\Debug\Repository.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\obj\Debug\Repository.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\obj\Debug\Repository.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\Remote TH\Repository\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\bin\Debug\Repository.exe.config
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\obj\Debug\Repository.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\obj\Debug\Repository.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\bin\Debug\Repository.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\bin\Debug\Repository.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\bin\Debug\Communication.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\bin\Debug\ITest.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\bin\Debug\Messages.dll
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\bin\Debug\CS-BlockingQueue.exe
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\bin\Debug\Communication.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\bin\Debug\ITest.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\bin\Debug\Messages.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\bin\Debug\CS-BlockingQueue.pdb
+D:\各种文件\课程内容\681\project\PRO4\RemoteTH_copy\Remote TH_11.26\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
